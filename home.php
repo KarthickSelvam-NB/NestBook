@@ -72,7 +72,7 @@ $result = mysqli_stmt_get_result($stmt);
       background-color: white;
     }
 
-    .home-header {
+    .home-header { 
       width: 94%;
       background: linear-gradient(to right, #ff416c, #ff4b2b);
       color: white;
