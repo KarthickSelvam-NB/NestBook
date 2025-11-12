@@ -255,7 +255,7 @@ $result = mysqli_stmt_get_result($stmt);
     <!-- Header -->
     <div class="home-header">
       <div class="nav-title">
-        📚 <strong>Book Logger</strong>
+        📚 <strong>NESTBOOK</strong>
       </div>
       <div class="nav-links">
         <a href="home.php">Home</a>
@@ -349,7 +349,7 @@ $result = mysqli_stmt_get_result($stmt);
 
     <!-- Footer -->
     <footer>
-      &copy; <?php echo date('Y'); ?> Book Logger. All rights reserved.<br>
+      &copy; <?php echo date('Y'); ?> NESTBOOK. All rights reserved.<br>
       <p>Designed & Developed by KarthickSelvam</p>
       <a href="home.php">Home</a> |
       <a href="books.php">Books</a> |

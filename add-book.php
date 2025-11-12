@@ -225,7 +225,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 </div>
 <!-- Footer -->
   <footer>
-    &copy; <?php echo date('Y'); ?> Book Logger. All rights reserved.<br>
+    &copy; <?php echo date('Y'); ?> NESTBOOK. All rights reserved.<br>
     <p>Designed & Developed by KarthickSelvam</p>
     <a href="home.php">Home</a> |
     <a href="books.php">Books</a> |

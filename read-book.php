@@ -69,7 +69,7 @@ if ($rev_result) {
 <body>
 
 <div class="home-header">
-  <div class="nav-title"><strong>📚 Book Logger</strong></div>
+  <div class="nav-title"><strong>📚 NESTBOOK</strong></div>
   <div class="nav-links">
     <a href="home.php">Home</a>
     <a href="books.php">Books</a>

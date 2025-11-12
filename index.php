@@ -1,6 +1,6 @@
 <?php
 session_start();
-include 'db.php'; // make sure this file connects to book_review_app
+include 'db.php'; 
 
 // Registration logic
 if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['regName'])) {

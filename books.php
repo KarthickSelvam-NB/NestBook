@@ -25,7 +25,7 @@ if (!$result) {
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Books | Book Logger</title>
+  <title>Books | NESTBOOK</title>
   <style>
     * {
       margin: 0;
@@ -209,7 +209,7 @@ if (!$result) {
 <body>
   <!-- Header -->
   <div class="home-header">
-    <div class="nav-title">📚 Book Logger</div>
+    <div class="nav-title">📚 NESTBOOK</div>
     <div class="nav-links">
       <a href="home.php">Home</a>
       <a href="books.php">Books</a>
@@ -262,7 +262,7 @@ if (!$result) {
 
   <!-- Footer -->
   <footer>
-    &copy; <?php echo date('Y'); ?> Book Logger. All rights reserved.<br>
+    &copy; <?php echo date('Y'); ?> NESTBOOK. All rights reserved.<br>
     <p>Designed & Developed by KarthickSelvam</p>
     <a href="home.php">Home</a> |
     <a href="books.php">Books</a> |
